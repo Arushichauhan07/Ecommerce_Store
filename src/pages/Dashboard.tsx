@@ -1,0 +1,11 @@
+import HeroSection from "../components/HeroSection";
+
+const Dashboard = () => {
+  return (
+    <div>
+      <HeroSection />
+    </div>
+  );
+};
+
+export default Dashboard;
