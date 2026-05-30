@@ -1,4 +1,4 @@
-import React, { useEffect } from "react";
+import { useEffect } from "react";
 
 // ICONS 
 import { X, Plus, Minus, Trash2, ShoppingBag } from "lucide-react";
